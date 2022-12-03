@@ -1,7 +1,7 @@
 package com.github.springboocode.pojo;
 
 /**
- * @author asus
+ * @author zhoubo
  */
 public class Goods {
 }
