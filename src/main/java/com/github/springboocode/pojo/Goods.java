@@ -1,7 +1,7 @@
-package com.github.springboocode.entity;
+package com.github.springboocode.pojo;
 
 /**
  * @author asus
  */
-public class Student {
+public class Goods {
 }
