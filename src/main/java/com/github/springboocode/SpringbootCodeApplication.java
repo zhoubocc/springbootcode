@@ -7,10 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author asus
  */
 @SpringBootApplication
-public class SpringboocodeApplication {
+public class SpringbootCodeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(SpringboocodeApplication.class, args);
+        SpringApplication.run(SpringbootCodeApplication.class, args);
     }
 
 }
