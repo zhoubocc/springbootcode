@@ -5,7 +5,7 @@ package com.github.springboocode.pojo;
  */
 public class Goods {
     /**
-     * 版本4
+     * 版本5
      */
     private String name;
 }
